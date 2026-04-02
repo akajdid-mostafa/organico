@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.example.organico"
+    name: "Organico"
+  ios:
+    id: "com.example.organico"
+    name: "Organico"
